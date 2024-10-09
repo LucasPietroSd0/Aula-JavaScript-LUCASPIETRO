@@ -1,4 +1,9 @@
-variaveis js
+TURMA : DSM2
+ALUNO: LUCAS PIETRO SILVA DINIZ
+
+
+
+VARIAVEIS JS
 
 1ª Crie uma variável chamada carNamee atribua o valor Volvoa ela.
 
@@ -35,8 +40,8 @@ age = 35
 let  style="v = "John"l lastName = ;"><fot s= e=;
 ________________________________________________________________________________
 
+OPERADORES JS
 
-Operadores JS
 1ª Multiplique 10por 5, e alerte o resultado:
 
 alert(10 * 5);
